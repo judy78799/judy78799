@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="move.js">
+    <title>Top 버튼 만들기</title>
+</head>
+<style>
+    body{height:1700px; background-color: #264653;}
+    #scrollToTopButton{position: fixed; bottom:140px; right: 100px; width: 50px; height:50px; text-decoration: none; font-size: 20px;}
+    .box{
+        width: 50px;
+        height: 50px;
+        padding:12px 10px 0 10px ;
+        border-radius: 15%;
+        text-align: center;
+        border: 1px solid #6d6d6d;
+        background-color: #E76f51;
+        font-weight: bold;
+        font-size: 30px;
+        color:#264653;
+    }
+    .h2{
+        margin: 50px;
+        font-size: 30px;
+        color:#E9C46A;
+        text-align: center;
+    }
+    .h3{
+        margin: 50px;
+        font-size: 20px;
+        color:#cdaa52;
+        text-align: center;
+    }
+</style>
+<body>
+    
+   <h2 class="h2">👀 위로 이동하는 Top 버튼 만들기 👀</h2>
+   <h2 class="h3"> please scroll down</h2>
+
+    <a href="" id="scrollToTopButton" style="display: inline-block;"><div class="box">☝</div></a>
+
+    <script>
+        function scrollToTop() {
+        window.scrollTo(0, 0);
+        }
+
+        // 버튼 클릭 시 상단으로 스크롤
+        const button = document.getElementById("scrollToTopButton");
+        button.addEventListener("click", scrollToTop);
+    </script>
+
+</body>
+</html>
