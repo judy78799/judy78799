@@ -1,13 +1,9 @@
 ## Hi there 👋
-<!--
 - 🌱 I’m currently learning ...HTML5/JavaScript/CSS3
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...sera04645@naver.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...like to learning code
--->
+- ⚡ Fun fact: ...love to learning code
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
