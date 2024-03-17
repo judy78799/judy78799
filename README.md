@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning ...HTML5/JavaScript/CSS3
+- 🌱 I’m currently learning ...React/Vue/Next.js
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...sera04645@naver.com
 - ⚡ Fun fact: ...love to learning code
