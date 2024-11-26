@@ -3,6 +3,8 @@
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: sera0465@naver.com
 - ⚡ Fun fact: ...love to learning code
+- Blog/Tistory: https://judy0465.tistory.com/
+- Blog/Velog: https://velog.io/@lemonarr/posts
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
