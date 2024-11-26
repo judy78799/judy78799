@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning ...React/Vue/Next.js
+- 🌱 I’m currently learning ...Spring/SpringBoot/Docker
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: sera0465@naver.com
 - ⚡ Fun fact: ...love to learning code
