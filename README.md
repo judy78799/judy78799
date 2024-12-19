@@ -32,9 +32,6 @@
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=judy78799&show_icons=true&theme=holi" width = "49%" height="130%" />
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=judy78799" width="42%" height="100%"/>
 </div>
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judy78799&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 
 
