@@ -2,7 +2,7 @@
 ## 👋 Welcome
 - 🌱 I’m currently learning ...Spring/SpringBoot/Docker
 - 📫 How to reach me: sera0465@naver.com
-- Blog/Tistory: <a href="https://judy0465.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+- Blog/Tistory: <a href="https://judy0465.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E4405F?style=flat-square&logo=Tistory&logoColor=white"/></a>
 출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 - Blog/Velog: https://velog.io/@lemonarr/posts
 
