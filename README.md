@@ -5,7 +5,7 @@
 - Blog/Tistory: https://judy0465.tistory.com/
 - Blog/Velog: https://velog.io/@lemonarr/posts
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&weight=450&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&weight=350&section=header" />
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
