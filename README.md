@@ -6,6 +6,7 @@
 - Blog/Velog: https://velog.io/@lemonarr/posts
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&weight=350&section=header"/>
+
 <h3>📚 Tech Stack 📚</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
@@ -27,6 +28,21 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
 </p>
 
+<div>
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=judy78799&show_icons=true&theme=holi" width = "49%" height="130%" />
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=judy78799" width="42%" height="100%"/>
+</div>
+<div>
+  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=judy78799&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+</div>
+
+
+
+
+
+
+
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=judy78799&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=judy78799&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
@@ -35,13 +51,7 @@
 <h3>📚 Blog 📚</h3>
 <a href="https://judy0465.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E4405F?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
-<div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=ydmins&show_icons=true&theme=holi" width = "49%" height="130%" />
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=ydmins" width="42%" height="100%"/>
-</div>
-<div>
-  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
-</div>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&weight=350&section=footer" />
