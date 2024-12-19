@@ -1,10 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 ## 👋 Welcome
 - 🌱 I’m currently learning ...Spring/SpringBoot/Docker
 - 📫 How to reach me: sera0465@naver.com
 - Blog/Tistory: https://judy0465.tistory.com/
 - Blog/Velog: https://velog.io/@lemonarr/posts
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
