@@ -5,7 +5,7 @@
 - Blog/Tistory: https://judy0465.tistory.com/
 - Blog/Velog: https://velog.io/@lemonarr/posts
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&weight=250&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&weight=450&section=header" />
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
@@ -29,6 +29,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=judy78799)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&weight=250&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&weight=350&section=footer" />
 
 
