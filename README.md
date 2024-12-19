@@ -2,8 +2,7 @@
 ## 👋 Welcome
 - 🌱 I’m currently learning ...Spring/SpringBoot/Docker
 - 📫 How to reach me: sera0465@naver.com
-- Blog/Tistory: <a href="https://judy0465.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E4405F?style=flat-square&logo=Tistory&logoColor=white"/></a>
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
+- Blog/Tistory: https://judy0465.tistory.com
 - Blog/Velog: https://velog.io/@lemonarr/posts
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&weight=350&section=header"/>
@@ -27,7 +26,8 @@
   <img src="https://img.shields.io/badge/AfterEffects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
 </p>
-
+<h3>📚 Tech Stack 📚</h3>
+<a href="https://judy0465.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E4405F?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=judy78799)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&weight=350&section=footer" />
