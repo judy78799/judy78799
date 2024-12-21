@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3758FF&height=200&weight=100%&section=header&text=MinYeong &nbsp;Github&fontSize=70&fontColor=FFFFFF"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3758FF&height=200&weight=100%&section=header&text=MinYeong&nbsp;Github&fontSize=70&fontColor=FFFFFF"/> 
 
 ## 👋 Welcome
 - 🌱 I’m currently learning ...Spring/SpringBoot/Docker
