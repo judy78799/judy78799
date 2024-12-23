@@ -32,6 +32,13 @@
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=judy78799&show_icons=true&theme=holi" width = "49%" height="120%" />
 </div>
 
+<h2>📚 My Farm 📚</h3>
+<img
+    src="https://render.gitanimals.org/farms/rjsgud49"
+    width="800"
+    height="300"
+  />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judy78799&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
