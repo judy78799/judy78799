@@ -36,20 +36,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judy78799&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 평점 End-->
 
-<h2>📚 My Farm 📚</h3>
-<img
-    src="https://render.gitanimals.org/farms/rjsgud49"
-    width="800"
-    height="300"
-  />
+<h2>📚 Farm 📚</h3>
 
-  
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/judy78799"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/judy78799"
+  width="600"
+  height="300"
+/>
 </a>
   
 
