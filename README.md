@@ -38,6 +38,7 @@
 
 <h2>📚 Blog 📚</h3>
 <a href="https://judy0465.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E4405F?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://velog.io/@lemonarr/posts"><img src="https://img.shields.io/badge/Velog-E4405F?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
 
