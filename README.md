@@ -1,5 +1,7 @@
+<!-- Wave Header-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3758FF&height=200&weight=100%&section=header&text=MinYeong's&nbsp;Github&fontSize=70&fontColor=FFFFFF"/> 
 
+<!-- About Me-->
 ## 👋 Welcome
 - 🌱 I’m currently learning ...Spring/SpringBoot/Docker
 - 📫 How to reach me: sera0465@naver.com
@@ -7,6 +9,7 @@
 - Blog/Velog: https://velog.io/@lemonarr/posts
 <br>
 
+<!-- Tech Stack-->
 <h2>📚 Tech Stack 📚</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
@@ -27,6 +30,7 @@
   <img src="https://img.shields.io/badge/AfterEffects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
 </p><br>
+<!-- Tech Stack END-->
 
 <!-- 평점 -->
 <div>
@@ -36,6 +40,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judy78799&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 평점 End-->
 
+
+<!-- Farm 영역-->  
 <h2>📚 Farm 📚</h3>
 
 <a href="https://github.com/devxb/gitanimals">
@@ -45,15 +51,14 @@
   height="300"
 />
 </a>
-  
+<!-- Farm 영역 END-->  
 
 <h2>📚 Blog 📚</h3>
 <a href="https://judy0465.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E4405F?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="https://velog.io/@lemonarr/posts"><img src="https://img.shields.io/badge/Velog-E4405F?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://velog.io/@lemonarr/posts"><img src="https://img.shields.io/badge/Velog-40B883?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
-
-
+<!-- Wave Footer-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3758FF&height=150&weight=350&section=footer" />
 
 
