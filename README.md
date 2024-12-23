@@ -28,9 +28,13 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
 </p><br>
 
+<!-- 평점 -->
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=judy78799&show_icons=true&theme=holi" width = "49%" height="120%" />
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judy78799&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 평점 End-->
 
 <h2>📚 My Farm 📚</h3>
 <img
@@ -39,9 +43,15 @@
     height="300"
   />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judy78799&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/judy78799"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 <h2>📚 Blog 📚</h3>
 <a href="https://judy0465.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E4405F?style=flat-square&logo=Tistory&logoColor=white"/></a>
