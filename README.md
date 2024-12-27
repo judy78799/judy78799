@@ -24,10 +24,10 @@
   <img src="https://img.shields.io/badge/Oracle-EA1B22?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HeidiSQL-003545?style=flat-square&logo=HeidiSQL&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp 
+<!--   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Premiere-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AfterEffects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AfterEffects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/></a>&nbsp  -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
 </p><br>
 <!-- Tech Stack END-->
