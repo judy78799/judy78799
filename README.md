@@ -12,7 +12,7 @@
 <!-- Tech Stack-->
 <h2>📚 Tech Stack 📚</h3>
 <p>
-  <img src="https://img.shields.io/badge/Java-6EB442?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-ffb13b?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6EB442?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-6EB442?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-3765AF?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp 
