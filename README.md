@@ -12,6 +12,7 @@
 <!-- Tech Stack-->
 <h2>📚 Tech Stack 📚</h3>
 <p>
+  <img src="https://img.shields.io/badge/Java-6EB442?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Spring-6EB442?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-6EB442?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-3765AF?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp 
@@ -24,8 +25,6 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-00D8FF?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-40B883?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C#-40B883?style=flat-square&logo=C#&logoColor=white"/></a>&nbsp 
-
   <br>
 <!--   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>&nbsp 
