@@ -45,7 +45,7 @@
 
 
 <!-- Farm 영역-->  
-<h2>📚 Farm </h3>
+<h2>📚 Farm 📚</h3>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
