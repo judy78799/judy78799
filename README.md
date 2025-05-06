@@ -10,7 +10,7 @@
 <br>
 
 <!-- Tech Stack-->
-<h2>📚 Tech Stack 📚</h3>
+<h2>📚 Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-ffb13b?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-1572B6?style=flat-square&logo=AWS&logoColor=white"/></a>&nbsp
