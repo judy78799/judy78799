@@ -5,7 +5,7 @@
 ## 👋 Hi
 - 🌱 I’m currently learning Spring/SpringBoot/Docker
 - 📫 How to reach me: sera0465@naver.com
-- | ⚠️ warning : I’m not always the first to reach out,
+- ⚠️ warning : I’m not always the first to reach out,
 but when you do, I may stumble a bit—but I genuinely appreciate it.🥰
 <br>
 
