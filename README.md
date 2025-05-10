@@ -8,7 +8,7 @@
 ```
 ⚠️ warning : I’m not always the first to reach out,
 but when you do, I may stumble a bit
-<br> but I genuinely appreciate it.🥰
+but I genuinely appreciate it.🥰
 ```
 <br>
 
