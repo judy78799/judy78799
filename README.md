@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3758FF&height=200&weight=100%&section=header&text=MinYeong's&nbsp;Github&fontSize=70&fontColor=FFFFFF"/> 
 
 <!-- About Me-->
-## 👋 Hi
+## 👋 Hi~
 - 🌱 I’m currently learning Spring/SpringBoot/Docker
 - 📫 How to reach me: sera0465@naver.com
 ```
