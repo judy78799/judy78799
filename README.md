@@ -49,16 +49,6 @@ but I genuinely appreciate it🥰
 <!-- 평점 End-->
 
 
-<!-- Farm 영역-->  
-<h2>📚 Farm 📚</h3>
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/judy78799"
-  width="600"
-  height="300"
-/>
-</a>
 <!-- Farm 영역 END-->  
 
 <!-- Blog 영역-->  
