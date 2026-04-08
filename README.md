@@ -40,14 +40,6 @@ but I genuinely appreciate it🥰
 </p><br>
 <!-- Tech Stack END-->
 
-<!-- 평점 -->
-<div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=judy78799&show_icons=true&theme=holi" width = "49%" height="120%" />
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judy78799&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 평점 End-->
-
 
 <!-- Farm 영역 END-->  
 
