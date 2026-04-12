@@ -1,18 +1,6 @@
 <!-- Wave Header-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3758FF&height=200&weight=100%&section=header&text=MinYeong's&nbsp;Github&fontSize=70&fontColor=FFFFFF"/> 
 
-<!-- About Me-->
-## 👋 Hi.
-
-- 🌱 I’m currently learning Spring/SpringBoot/Docker
-- 📫 How to reach me: sera0465@naver.com
-```
-⚠️ warning
-I’m not always the first to reach out,
-but when you do, I may stumble a bit
-but I genuinely appreciate it🥰
-```
-<br>
 
 <!-- Tech Stack-->
 <h2>📚 Tech Stack 📚</h3>
